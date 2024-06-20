@@ -61,6 +61,7 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 ## Affiliations
 - US Squash: Member
 - CSIS Journalism Bootcamp: Alumni
+- Atlanta Community Squash: Member
 
 ## Interests
 - Squash, Guitar, Writing, Travel and Legos
