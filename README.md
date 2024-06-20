@@ -32,13 +32,13 @@
 **Cluster-Based Climate Change Planning for Massachusetts Towns**
 
 [Repository](https://github.com/Isha-Mahajan12/copemunicipal)
-
-Validated town prototypes for climate change planning in Massachusetts, by leveraging cluster models. Applied factor analysis to reduce data dimensionality and created latent variables. Ran K-means cluster models to understand similarities on towns based on population, voting preferences, income and geographical factors. Leveraged insights from clusters to devise climate change mitigation strategies for local governments in summer 2022. 
 **Technologies Used**: R, Latex
+Validated town prototypes for climate change planning in Massachusetts, by leveraging cluster models. Applied factor analysis to reduce data dimensionality and created latent variables. Ran K-means cluster models to understand similarities on towns based on population, voting preferences, income and geographical factors. Leveraged insights from clusters to devise climate change mitigation strategies for local governments in summer 2022. 
+
 
 
 **Exploring the Impact of Covid-19 on Employment in Massachusetts**
-
+**Technologies Used**: Tableau
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
 
 Exploratory data analysis on Covid-19's impact on employment in Massachusetts, focusing on visualizations for stakeholder engagement. 
@@ -46,7 +46,7 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 - Analyzing Covid-19's impact on employment in Massachusetts, focusing on NECTA regions, industries, and counties.
 - Identifying most and least affected industries, and tracking their post-pandemic recovery trends.
 - Assessing DER support needs for industries to restore pre-pandemic employment levels and monitoring emerging post-pandemic employment trends.
-**Technologies Used**: Tableau
+
 
 
 ## Publications
