@@ -55,6 +55,6 @@ Validated town prototypes for climate change planning in Massachusetts, by lever
 
 ## Contact Me
 - [LinkedIn Profile]
-- [Email Address](i.mahajan439@gmail.com)
+- [Email Address]
 
 Feel free to reach out to me for collaborations or discussions!
