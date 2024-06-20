@@ -31,13 +31,15 @@
 ## Projects
 **Cluster-Based Climate Change Planning for Massachusetts Towns**
 
-[Repository](https://github.com/Isha-Mahajan12/copemunicipal)
 **Technologies Used**: R, Latex
+[Repository](https://github.com/Isha-Mahajan12/copemunicipal)
+
 Validated town prototypes for climate change planning in Massachusetts, by leveraging cluster models. Applied factor analysis to reduce data dimensionality and created latent variables. Ran K-means cluster models to understand similarities on towns based on population, voting preferences, income and geographical factors. Leveraged insights from clusters to devise climate change mitigation strategies for local governments in summer 2022. 
 
 
 
 **Exploring the Impact of Covid-19 on Employment in Massachusetts**
+
 **Technologies Used**: Tableau
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
 
