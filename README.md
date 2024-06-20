@@ -49,8 +49,8 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 
 
 ## Publications
-- Carpenter, C. (2021, September 23). HSLAB publishes Briefing Note on Peacekeeping in Afghanistan — Human Security Lab. Human Security Lab. https://www.humansecuritylab.net/news/hslab-publishes-briefing-note-on-peacekeeping-in-afghanistan
 - Carpenter, C. (2022, May 9). Human Security Lab launches report on Women, Peace and Security in Afghanistan — Human Security Lab. Human Security Lab. https://www.humansecuritylab.net/news/human-security-lab-launches-report-on-women-peace-and-security-in-afghanistan
+- Carpenter, C. (2021, September 23). HSLAB publishes Briefing Note on Peacekeeping in Afghanistan — Human Security Lab. Human Security Lab. https://www.humansecuritylab.net/news/hslab-publishes-briefing-note-on-peacekeeping-in-afghanistan
 - CSIS Journalism, S. (2019, September 27). Refugees in all but name: Venezuelans struggle for status - CSIS Journalism Bootcamp. CSIS Journalism Bootcamp. https://journalism.csis.org/refugees-in-all-but-name-venezuelans-struggle-for-status
   
 ## Affiliations
