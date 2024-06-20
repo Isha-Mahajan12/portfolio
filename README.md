@@ -40,7 +40,6 @@
 Validated town prototypes for climate change planning in Massachusetts, by leveraging cluster models. Applied factor analysis to reduce data dimensionality and created latent variables. Ran K-means cluster models to understand similarities on towns based on population, voting preferences, income and geographical factors. Leveraged insights from clusters to devise climate change mitigation strategies for local governments in summer 2022. 
 
 
-
 ### Exploring the Impact of Covid-19 on Employment in Massachusetts
 
 **Technologies Used**: Tableau
@@ -52,7 +51,6 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 - Analyzing Covid-19's impact on employment in Massachusetts, focusing on NECTA regions, industries, and counties.
 - Identifying most and least affected industries, and tracking their post-pandemic recovery trends.
 - Assessing DER support needs for industries to restore pre-pandemic employment levels and monitoring emerging post-pandemic employment trends.
-
 
 
 ## Publications
@@ -67,7 +65,7 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 ## Interests
 - Squash, Guitar, Writing, Travel and Legos
 
-## Contact Me
+## Contact
 - [LinkedIn Profile]
 - [Email Address]
 
