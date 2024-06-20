@@ -17,7 +17,7 @@
 - Collaborated on developing a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 76% accuracy and enhancing competitive market intelligence.
 - Managed summer interns for two years, leading to successful implementation of special projects in generative AI and spatial visualizations, enhancing team capabilities and project outcomes.
   
-**Research Intern @ Glassdoor (June 2022- September 2022)**
+**UX Research Intern @ Glassdoor (June 2022- September 2022)**
 - Reported on metrics like System Usability Scale (SUS), Net Promoter Score (NPS), and Brand Awareness, resulting in a 10% improvement in NPS and a 20% increase in brand awareness.
 - Owned data collection and insights, uncovering crucial user insights implemented in new product development.
 - Responded promptly to ad-hoc data requests on UX metrics from research studies, improving response time by 10% and supporting timely decision-making in product development.
