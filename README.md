@@ -4,8 +4,10 @@
 
 
 ## Education
-- M.S. Data Analytics and Computational Social Science | University of Massachusetts Amherst (May 2022)
-- B.A. Political Science and Journalism| University of Massachusetts Amherst (May 2021)
+- M.S. Data Analytics and Computational Social Science
+  University of Massachusetts Amherst (May 2022)
+- B.A. Political Science and Journalism
+  University of Massachusetts Amherst (May 2021)
 
 
 ## Work Experience
