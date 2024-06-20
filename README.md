@@ -29,7 +29,7 @@
 
 
 ## Projects
-### Cluster-Based Climate Change Planning for Massachusetts Towns
+**Cluster-Based Climate Change Planning for Massachusetts Towns**
 
 [Repository](https://github.com/Isha-Mahajan12/copemunicipal)
 
@@ -37,7 +37,7 @@ Validated town prototypes for climate change planning in Massachusetts, by lever
 Technologies Used: R, Tableau, Latex
 
 
-### Exploring the Impact of Covid-19 on Employment in Massachusetts 
+**Exploring the Impact of Covid-19 on Employment in Massachusetts**
 
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
 
