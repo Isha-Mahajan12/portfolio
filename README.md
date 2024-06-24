@@ -77,9 +77,7 @@ Identifying the most prevelant topics in reporting Human Rights Violations over 
 - Carpenter, C. (2021, September 23). HSLAB publishes Briefing Note on Peacekeeping in Afghanistan — Human Security Lab. Human Security Lab. 
 - CSIS Journalism, S. (2019, September 27). Refugees in all but name: Venezuelans struggle for status - CSIS Journalism Bootcamp. CSIS Journalism Bootcamp.
 
-## Certificstions
-- Azure 
-  
+
 ## Affiliations
 - US Squash: Member
 - CSIS Journalism Bootcamp: Alumni
