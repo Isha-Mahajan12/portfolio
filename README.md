@@ -14,7 +14,7 @@
 
 **Marketing Data Analyst @ Sciera,Inc (January 2021- Present)**
 - Collaborated with Marketing strategists to analyze ad campaign data, resulting in a 15% increase in Click Through Rates.
-- Crafted SQL queries in Snowflake, used AWS Quicksight for visualizations, and integrated Python for advanced analytics, reducing weekly report preparation time by 15%.
+- Designed and implemented Python and SQL Snowflake scripts to automate data querying, cleaning, and transformation tasks. Automated data injestion in AWS Quicksight for visualization, reducing weekly reporting time by 15%.
 - Developed a K-means cluster model to create market cohorts, achieving a 7% increase in campaign ROI through targeted segmentation and messaging.
 - Collaborated on developing a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 76% accuracy and enhancing competitive market intelligence.
 - Managed summer interns for two years, leading to successful implementation of special projects in generative AI and spatial visualizations, enhancing team capabilities and project outcomes.
