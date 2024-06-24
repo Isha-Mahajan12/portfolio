@@ -1,10 +1,3 @@
-body {
-    text-align: justify;
-}
-
-body {
-    margin: 30px;
-}
 
 # Data Scientist
 
