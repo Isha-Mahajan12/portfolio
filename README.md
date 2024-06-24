@@ -35,6 +35,7 @@
 ### Cluster-Based Climate Change Planning for Massachusetts Towns
 
 **Technologies Used**: R, Latex
+**Tags**: Data Cleaning, Dimensionality Reduction, Clustering
 
 [Repository](https://github.com/Isha-Mahajan12/copemunicipal)
 
@@ -44,6 +45,7 @@ Validated town prototypes for climate change planning in Massachusetts, by lever
 ### Exploring the Impact of Covid-19 on Employment in Massachusetts
 
 **Technologies Used**: Tableau
+**Tags**: Exploratory Data Analysis, Dashboards 
 
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
 
@@ -52,6 +54,17 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 - Analyzing Covid-19's impact on employment in Massachusetts, focusing on NECTA regions, industries, and counties.
 - Identifying most and least affected industries, and tracking their post-pandemic recovery trends.
 - Assessing DER support needs for industries to restore pre-pandemic employment levels and monitoring emerging post-pandemic employment trends.
+
+### Topical Analysis of Human Rights Reports
+
+**Technologies Used**: R, Python
+**Tags**: NLP, Topic Models, Text Mining
+
+[Repository](https://github.com/Isha-Mahajan12/stm_human_rights)
+
+Identifying the most prevelant topics in reporting Human Rights Violations over 30 years. Cleaned, Pre-processed and tokenized over 14,000 text document. 
+- Published data and methodology in a Univeristy internal database
+- Applied Structured Topic Models to identify topical prevelance, and analyze the impact of metadata - time, publication name and region of publication on overall framing effects. 
 
 
 ## Publications
