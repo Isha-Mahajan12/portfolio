@@ -35,6 +35,7 @@
 ### Cluster-Based Climate Change Planning for Massachusetts Towns
 
 **Technologies Used**: R, Latex
+
 **Tags**: Data Cleaning, Dimensionality Reduction, Clustering
 
 [Repository](https://github.com/Isha-Mahajan12/copemunicipal)
@@ -45,6 +46,7 @@ Validated town prototypes for climate change planning in Massachusetts, by lever
 ### Exploring the Impact of Covid-19 on Employment in Massachusetts
 
 **Technologies Used**: Tableau
+
 **Tags**: Exploratory Data Analysis, Dashboards 
 
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
@@ -58,6 +60,7 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 ### Topical Analysis of Human Rights Reports
 
 **Technologies Used**: R, Python
+
 **Tags**: NLP, Topic Models, Text Mining
 
 [Repository](https://github.com/Isha-Mahajan12/stm_human_rights)
