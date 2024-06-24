@@ -1,4 +1,8 @@
 title: Isha Mahajan
+<<<<<<< HEAD
 logo: /assets/img/headshot.png
+=======
+logo: /assets/headshot_circle.jpg
+>>>>>>> ddd251239f2ae8485ff0947a21b5616af13eea2f
 #show_downloads:true
 theme: jekyll-theme-minimal
