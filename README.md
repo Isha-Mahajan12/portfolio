@@ -15,18 +15,18 @@
 ## Work Experience
 
 **Marketing Data Analyst @ Sciera,Inc (January 2021- Present)**
-- Collaborated with marketeers to analyze ad campaign data, resulting in a 15\% increase in Click Through Rate
-- Designed and implemented Python and SQL scripts to automate data querying, cleaning, and transformation tasks. Automated data ingestion in AWS Quicksight for visualization, reducing weekly reporting time by 15\%
-- Developed a linear model using Python to optimize sales strategy, resulting in an 8\% increase in lead conversion
-- Developed a K-means cluster model to create market cohorts, achieving a 7\% increase in campaign ROI through targeted segmentation and messaging
-- Collaborated on developing a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 79\% accuracy and enhancing competitive market intelligence
+- Collaborated with marketeers to analyze ad campaign data, resulting in a 15% increase in Click Through Rate
+- Designed and implemented Python and SQL scripts to automate data querying, cleaning, and transformation tasks. Automated data ingestion in AWS Quicksight for visualization, reducing weekly reporting time by 15%
+- Developed a linear model using Python to optimize sales strategy, resulting in an 8% increase in lead conversion
+- Developed a K-means cluster model to create market cohorts, achieving a 7% increase in campaign ROI through targeted segmentation and messaging
+- Collaborated on developing a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 79% accuracy and enhancing competitive market intelligence
 - Managed summer interns for two years, leading to successful implementation of special projects in generative AI and spatial visualization, enhancing team capabilities and project outcomes
 
   
 **UX Research Intern @ Glassdoor (June 2022- September 2022)**
 - Reported on metrics like System Usability Scale (SUS), Net Promoter Score (NPS), and Brand Awareness, generating consumer insights for product stakeholders
 - Owned data collection and analysis, uncovering crucial user insights implemented in new product development
-- Responded promptly to ad-hoc data requests on UX metrics from research studies, improving response time by 10\% and supporting timely decision-making in product development
+- Responded promptly to ad-hoc data requests on UX metrics from research studies, improving response time by 10% and supporting timely decision-making in product development
   
 **Research Assistant @ Human Security Lab (January 2020- May 2022)**
 - Collaborated on a research project focused on expanding gender programming efforts funded by the USAID
