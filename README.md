@@ -16,11 +16,11 @@
 
 #### **Marketing Data Analyst @ Sciera,Inc (January 2023- Present)**
 - Collaborated with marketing consultants to analyze ad campaign data, achieving a 15% increase in Click Through Rate
-- Designed and implemented Python and SQL scripts to automate data querying, cleaning, and transformation, reducing weekly reporting time by 15%
+- Designed and implemented Python and SQL scripts to automate data querying, cleaning, and transformation, reducing weekly reporting time by 10%
 - Analyzed historical sales data to identify growth opportunities, resulting in an ~8% increase in conversions.
 - Developed a K-means cluster model to create market cohorts, achieving a 7% increase in campaign ROI through targeted segmentation and messaging
 - Developed a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 79% accuracy and enhancing competitive market intelligence for telecom clients
-- Managed summer interns for two years, leading to successful implementation of special projects in generative AI and spatial visualization, enhancing team capabilities and project outcomes
+- Mentored summer interns for two years, leading to successful implementation of special projects in generative AI and spatial visualization, enhancing team capabilities and project outcomes
   
 #### UX Research Intern @ Glassdoor (June 2022- September 2022)**
 - Reported on metrics like System Usability Scale (SUS), Net Promoter Score (NPS), and Brand Awareness, generating consumer insights for product stakeholders
