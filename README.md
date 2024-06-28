@@ -27,7 +27,7 @@
 - Owned data collection and analysis, uncovering crucial user insights implemented in new product development
 - Responded promptly to ad-hoc data requests on UX metrics from research studies, improving response time by 10% and supporting timely decision-making in product development
   
-#### Research Assistant @ Human Security Lab (January 2020- May 2022)**
+#### Research Assistant @ Human Security Lab (January 2019- May 2022)**
 - Collaborated on a research project focused on expanding gender programming efforts funded by the USAID
 - Conducted 3 online focus groups and 20 interviews to identify pain-points of people living in conflict zones
 - Assisted in drafting the report by providing support in literature reviews, analysis and monitoring of surveys.
