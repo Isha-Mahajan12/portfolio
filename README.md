@@ -87,7 +87,7 @@ Identified the most prevelant topics in reporting Human Rights Violations over 3
 - Squash, Guitar, Writing, Travel and Legos
 
 ## Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/ishaakshitamahajan/)
-- [Email Address](mailto:imahajan@umass.edu)
+- [LinkedIn](https://www.linkedin.com/in/ishaakshitamahajan/)
+- [Email Address](mailto:i.mahajan439@gmail.edu)
 
 Feel free to reach out to me for collaborations or discussions!
