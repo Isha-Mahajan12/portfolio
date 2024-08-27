@@ -68,7 +68,7 @@ Exploratory data analysis on Covid-19's impact on employment in Massachusetts, f
 
 [Repository](https://github.com/Isha-Mahajan12/stm_human_rights)
 
-Identified the most prevelant topics in reporting Human Rights Violations over 30 years. Cleaned, Pre-processed and tokenized over 14,000 text document. 
+Identified the most prevelant topics in reporting Human Rights Violations over 30 years. Cleaned, Pre-processed and tokenized over 14,000 text documents. 
 - Published data and methodology in a Univeristy internal database
 - Applied Structured Topic Models to identify topical prevelance, and analyze the impact of metadata - time, publication name and region of publication on overall framing effects. 
 
