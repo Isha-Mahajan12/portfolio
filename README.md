@@ -81,7 +81,7 @@ Identified the most prevelant topics in reporting Human Rights Violations over 3
 ## Affiliations
 - US Squash: Member
 - CSIS Journalism Bootcamp: Alumni
-- Atlanta Community Squash: Member and Volunteer for [A+ Squash](https://www.aplussquash.org/)
+- Atlanta Community Squash: Member and Volunteer at [A+ Squash](https://www.aplussquash.org/)
 
 ## Interests
 - Squash, Guitar, Writing, Travel and Legos
