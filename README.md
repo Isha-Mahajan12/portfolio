@@ -1,5 +1,5 @@
 
-# Data Scientist: Analytics, Business Insights and Storytelling
+# Data Scientist
 
 ## Skills
 - Python, SQL, AWS, Azure, Snowflake, R
