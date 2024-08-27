@@ -2,7 +2,7 @@
 # Data Scientist
 
 ## Skills
-- **Technical Skills**: Python, SQL, AWS, Azure, Snowflake, R
+- Python, SQL, AWS, Azure, Snowflake, R
 
 
 
