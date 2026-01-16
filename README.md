@@ -14,7 +14,7 @@
 
 ## Work Experience
 
-### Marketing Data Analyst @ Sciera,Inc (January 2023- Present)
+### Marketing Data Analyst @ Sciera, Inc (January 2023- Present)
 - Collaborated with strategic account owners on 20+ projects, performing statistical data analysis, **enhancing data-driven insights for stakeholders by 15%**
 - Leveraged external and internal data sources to generate reports on market growth and expansion, **enabling internet and retail companies to increase their market share by ~10%** in FY24-25
 - Partnered with data science and strategy teams to analyze multi-touch attribution and channel performance, **translating findings into actionable insights for campaign optimization**
