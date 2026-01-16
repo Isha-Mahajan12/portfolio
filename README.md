@@ -16,22 +16,19 @@
 ## Work Experience
 
 ### Marketing Data Analyst @ Sciera,Inc (January 2023- Present)
-- Collaborated with marketing consultants to analyze ad campaign data, achieving a 15% increase in Click Through Rate
-- Designed and implemented Python and SQL scripts to automate data querying, cleaning, and transformation, reducing weekly reporting time by 10%
-- Analyzed historical sales data to identify growth opportunities, resulting in an ~8% increase in conversions.
-- Developed a K-means cluster model to create market cohorts, achieving a 7% increase in campaign ROI through targeted segmentation and messaging
-- Developed a nearest neighbor spatial model in Python to predict new product expansion in emerging markets, achieving 79% accuracy and enhancing competitive market intelligence for telecom clients
-- Mentored summer interns for two years, leading to successful implementation of special projects in Large Language Models(LLMs) and spatial visualizations, enhancing team capabilities and project outcomes
+- Collaborated with strategic account owners on 20+ projects, performing data analysis, enhancing data-driven insights for stakeholders by 15%
+- Leveraged external and internal data sources to generate reports on market growth and expansion, enabling internet and retail companies to increase their market share by ~10% in FY24-25
+- Partnered with data science and strategy teams to analyze multi-touch attribution and channel performance, translating findings into actionable insights for campaign optimization
+- Identified data quality issues and introduced validation layers, improving downstream reporting accuracy and stakeholder trust by 10%
+- Partnered with stakeholders from retail and internet companies to build Marketing Mix Models (MMM), allocating over 2M$ of marketing budgets across various media channels and markets
+- Created ad-hoc analysis and data visualizations, enhancing the robustness of reports like Quarterly Business Reviews (QBRs), monthly and annual deliverables about current and forecasted market trends
+- Implemented ClickUp and GitHub to foster improved coordination and communication between international and US teams, streamlining productivity and reducing project completion time by half
+- Directed 2+ summer internships on projects in spatial visualizations, Large Language Models (LLMs) and Machine Learning, enhancing internal process efficiencies and technology adoption by 15%
   
 ### UX Research Intern @ Glassdoor (June 2022- September 2022)
-- Reported on metrics like System Usability Scale (SUS), Net Promoter Score (NPS), and Brand Awareness, generating consumer insights for product stakeholders
-- Owned data collection and analysis, uncovering crucial user insights implemented in new product development
-- Responded promptly to ad-hoc data requests on UX metrics from research studies, improving response time by 10% and supporting timely decision-making in product development
-  
-### Research Assistant @ Human Security Lab (January 2020- May 2022)
-- Collaborated on a research project focused on expanding gender programming efforts funded by the USAID
-- Conducted 3 online focus groups and 20 interviews to identify pain-points of people living in conflict zones
-- Assisted in drafting the report by providing support in literature reviews, analysis and monitoring of surveys.
+- Improved user behavior by analyzing and reporting metrics like Net Promoter Score (NPS) and System Usability Scale (SUS), leading to a 10% increase in customer retention
+- Fulfilled ad-hoc data requests from the product and design teams by analyzing user research studies, enhancing collaboration and reducing time-to-productivity by 15%
+- Generated insights on competitive user behaviors by independently managing all phases of a research project, increasing time to-market for a new product launch by 10%
 
 
 ## Projects
