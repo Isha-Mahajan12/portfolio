@@ -2,8 +2,7 @@
 # Data Scientist
 
 ## Skills
-- Python, SQL, AWS, Azure, Snowflake, R
-
+- Python, SQL, R, Snowflake, AWS, Tableau, Microsoft Excel, Google Analytics, Qualtrics, Salesforce, ClickUp, Jira, ChatGPT (Prompt Engineering and API Integration) 
 
 
 ## Education
@@ -16,14 +15,14 @@
 ## Work Experience
 
 ### Marketing Data Analyst @ Sciera,Inc (January 2023- Present)
-- Collaborated with strategic account owners on 20+ projects, performing data analysis, enhancing data-driven insights for stakeholders by 15%
-- Leveraged external and internal data sources to generate reports on market growth and expansion, enabling internet and retail companies to increase their market share by ~10% in FY24-25
-- Partnered with data science and strategy teams to analyze multi-touch attribution and channel performance, translating findings into actionable insights for campaign optimization
-- Identified data quality issues and introduced validation layers, improving downstream reporting accuracy and stakeholder trust by 10%
-- Partnered with stakeholders from retail and internet companies to build Marketing Mix Models (MMM), allocating over 2M$ of marketing budgets across various media channels and markets
-- Created ad-hoc analysis and data visualizations, enhancing the robustness of reports like Quarterly Business Reviews (QBRs), monthly and annual deliverables about current and forecasted market trends
-- Implemented ClickUp and GitHub to foster improved coordination and communication between international and US teams, streamlining productivity and reducing project completion time by half
-- Directed 2+ summer internships on projects in spatial visualizations, Large Language Models (LLMs) and Machine Learning, enhancing internal process efficiencies and technology adoption by 15%
+- Collaborated with strategic account owners on 20+ projects, performing statistical data analysis, **enhancing data-driven insights for stakeholders by 15%**
+- Leveraged external and internal data sources to generate reports on market growth and expansion, **enabling internet and retail companies to increase their market share by ~10%** in FY24-25
+- Partnered with data science and strategy teams to analyze multi-touch attribution and channel performance, **translating findings into actionable insights for campaign optimization**
+- Identified data quality issues and introduced validation layers, **improving downstream reporting accuracy and stakeholder trust by 10%**
+- Partnered with stakeholders from retail and internet companies to build Marketing Mix Models (MMM), **allocating over 2M$ of marketing budgets across various media channels and markets**
+- Created ad-hoc analysis and data visualizations, enhancing the robustness of reports like Quarterly Business Reviews (QBRs), monthly and **annual deliverables about current and forecasted market trends**
+- Implemented ClickUp and GitHub to foster improved coordination and communication between international and US teams, **streamlining productivity and reducing project completion time by half**
+- Directed 2+ summer internships on projects in spatial visualizations, Large Language Models (LLMs) and Machine Learning, **enhancing internal process efficiencies and technology adoption by 15%**
   
 ### UX Research Intern @ Glassdoor (June 2022- September 2022)
 - Improved user behavior by analyzing and reporting metrics like Net Promoter Score (NPS) and System Usability Scale (SUS), leading to a 10% increase in customer retention
@@ -88,4 +87,4 @@ Identified the most prevelant topics in reporting Human Rights Violations over 3
 - [LinkedIn](https://www.linkedin.com/in/ishaakshitamahajan/)
 - [Email Address](mailto:i.mahajan439@gmail.edu)
 
-Feel free to reach out to me for collaborations or discussions!
+Feel free to reach out to me for opportunities to collaborate 
