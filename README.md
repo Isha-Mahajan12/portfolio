@@ -4,8 +4,6 @@
 
 **Technologies:** Python, R, SQL, Snowflake, AWS, AWS QuickSight, Tableau, Microsoft Excel, ClickUp, OpenAI, Claude, Gemini, Google Suite
 
-**Libraries:** pandas, numpy, scikit-learn, pymc, prophet, robyn, meridian, networkx, seaborn, leaflet
-
 **Data Science & Analytics:** Predictive Modeling, Clustering, Bayesian Modeling, Time-Series Forecasting, A/B Testing and Experimentation, Marketing Mix Modeling (MMM), Scenario Planning, Budget Optimization
 
 ## Education
