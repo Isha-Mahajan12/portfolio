@@ -16,8 +16,7 @@
 ### Marketing Data Analyst @ Sciera, Inc (January 2023 to August 2026)
 
 - Designed statistically rigorous experiments (A/B tests) across programmatic advertising channels to model the causal impact of segment, creative, and bid strategies. Informed a $500K+ reallocation of spend
-  - Applied two-proportion z-tests and confidence interval estimation to validate statistical significance and quantify uncertainty before scaling decisions
-  - Built a monitoring dashboard in AWS QuickSight to track experiment results, flag outliers, and share findings with marketing stakeholders in real time
+- Built a monitoring dashboard in AWS QuickSight to track experiment results, flag outliers, and share findings with marketing stakeholders in real time
 - Evaluated and compared three Marketing Mix Modeling (MMM) frameworks in Python: PyMC, Meta Robyn, and Google Meridian, using data pipelines built on Snowflake and AWS. Informed a multi-million dollar marketing budget reallocation across 8 channels and multiple markets toward higher ROI channels
 - Developed a K-means clustering model in Python using scikit-learn on geographic sales and engagement data from Snowflake. Identified high-potential market segments, contributing to a 10% lift in Google Ads campaign performance
 - Built time-series forecasting models in Python using Prophet to analyze sales trends across geography and product lines. Improved forecast accuracy by 20% for Quarterly Business Reviews and C-Suite reporting
