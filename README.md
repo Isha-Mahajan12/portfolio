@@ -1,79 +1,85 @@
-
-# Data Scientist
+# Data Scientist 
 
 ## Skills
-- Python, SQL, R, Snowflake, AWS, Tableau, Microsoft Excel, Google Analytics, Qualtrics, Salesforce, ClickUp, Jira, ChatGPT (Prompt Engineering and API Integration) 
 
+**Technologies:** Python, R, SQL, Snowflake, AWS, AWS QuickSight, Tableau, Microsoft Excel, ClickUp, OpenAI, Claude, Gemini, Google Suite
+
+**Libraries:** pandas, numpy, scikit-learn, pymc, prophet, robyn, meridian, networkx, seaborn, leaflet
+
+**Data Science & Analytics:** Predictive Modeling, Clustering, Bayesian Modeling, Time-Series Forecasting, A/B Testing and Experimentation, Marketing Mix Modeling (MMM), Scenario Planning, Budget Optimization
 
 ## Education
-- **M.S. Data Analytics and Computational Social Science** |
-  University of Massachusetts Amherst (May 2022)
-- **B.A. Political Science and Journalism**|
-  University of Massachusetts Amherst (May 2021)
-
+- **M.S. Data Analytics and Computational Social Science** | University of Massachusetts Amherst (May 2022)
+- **B.A. Political Science and Journalism** | University of Massachusetts Amherst (May 2021)
 
 ## Work Experience
 
-### Marketing Data Analyst @ Sciera, Inc (January 2023- Present)
-- Collaborated with strategic account owners on 20+ projects, performing statistical data analysis, **enhancing data-driven insights for stakeholders by 15%**
-- Leveraged external and internal data sources to generate reports on market growth and expansion, **enabling internet and retail companies to increase their market share by ~10%** in FY24-25
-- Partnered with data science and strategy teams to analyze multi-touch attribution and channel performance, **translating findings into actionable insights for campaign optimization**
-- Identified data quality issues and introduced validation layers, **improving downstream reporting accuracy and stakeholder trust by 10%**
-- Partnered with stakeholders from retail and internet companies to build Marketing Mix Models (MMM), **allocating over 2M$ of marketing budgets across various media channels and markets**
-- Created ad-hoc analysis and data visualizations, enhancing the robustness of reports like Quarterly Business Reviews (QBRs), monthly and **annual deliverables about current and forecasted market trends**
-- Implemented ClickUp and GitHub to foster improved coordination and communication between international and US teams, **streamlining productivity and reducing project completion time by half**
-- Directed 2+ summer internships on projects in spatial visualizations, Large Language Models (LLMs) and Machine Learning, **enhancing internal process efficiencies and technology adoption by 15%**
-  
-### UX Research Intern @ Glassdoor (June 2022- September 2022)
-- Improved user behavior by analyzing and reporting metrics like Net Promoter Score (NPS) and System Usability Scale (SUS), leading to a 10% increase in customer retention
-- Fulfilled ad-hoc data requests from the product and design teams by analyzing user research studies, enhancing collaboration and reducing time-to-productivity by 15%
-- Generated insights on competitive user behaviors by independently managing all phases of a research project, increasing time to-market for a new product launch by 10%
+### Marketing Data Analyst @ Sciera, Inc (January 2023 to August 2026)
 
+- Designed statistically rigorous experiments (A/B tests) across programmatic advertising channels to model the causal impact of segment, creative, and bid strategies. Informed a $500K+ reallocation of spend
+  - Applied two-proportion z-tests and confidence interval estimation to validate statistical significance and quantify uncertainty before scaling decisions
+  - Built a monitoring dashboard in AWS QuickSight to track experiment results, flag outliers, and share findings with marketing stakeholders in real time
+ 
+- Evaluated and compared three Marketing Mix Modeling (MMM) frameworks in Python: PyMC, Meta Robyn, and Google Meridian, using data pipelines built on Snowflake and AWS. Informed a multi-million dollar marketing budget reallocation across 8 channels and multiple markets toward higher ROI channels
+
+- Developed a K-means clustering model in Python using scikit-learn on geographic sales and engagement data from Snowflake. Identified high-potential market segments, contributing to a 10% lift in Google Ads campaign performance
+
+- Built time-series forecasting models in Python using Prophet to analyze sales trends across geography and product lines. Improved forecast accuracy by 20% for Quarterly Business Reviews and C-Suite reporting
+
+- Engineered scalable ETL pipelines using Python. Eliminated 20+ hours of manual reporting per week and enabled reliable data access across 4+ teams in product, strategy, and operations
+
+- Implemented ClickUp and GitHub to improve coordination between international and US teams, reducing project completion time by half
+
+- Mentored 3+ interns on AI research, spatial visualizations, and market analysis projects, improving internal workflows and process efficiencies by 10%
+
+### UX Research Intern @ Glassdoor (June 2022 to September 2022)
+
+- Led a research project from study design through data collection, analysis, and stakeholder engagement, generating competitive user behavior insights using SQL and DScout. Accelerated time to market by 20%
+- Analyzed research studies across Qualtrics and UserTesting, tracking behavioral metrics like Net Promoter Score (NPS) and System Usability Scale (SUS). Informed product strategy and improved customer retention by 12%
 
 ## Projects
+
 ### Cluster-Based Climate Change Planning for Massachusetts Towns
 
-**Technologies Used**: R, Latex
+**Technologies Used:** R, LaTeX
 
-**Tags**: Data Cleaning, Dimensionality Reduction, Clustering
+**Tags:** Data Cleaning, Dimensionality Reduction, Clustering
 
 [Repository](https://github.com/Isha-Mahajan12/copemunicipal)
 
-Validated town prototypes for climate change planning in Massachusetts, by leveraging cluster models. Applied factor analysis to reduce data dimensionality and created latent variables. Used Census and Demographic data to collate population behaviors with planning preferences. Ran K-means cluster models to understand similarities on towns based on population, voting preferences, income and geographical factors. Leveraged insights from clusters to devise climate change mitigation strategies for local governments in summer 2022. 
-
+Validated town prototypes for climate change planning in Massachusetts using cluster models. Applied factor analysis to reduce data dimensionality and create latent variables. Used Census and demographic data to relate population behaviors to planning preferences. Ran K-means cluster models to group towns by population, voting preferences, income, and geographic factors. Used cluster insights to devise climate change mitigation strategies for local governments in summer 2022.
 
 ### Exploring the Impact of Covid-19 on Employment in Massachusetts
 
-**Technologies Used**: Tableau
+**Technologies Used:** Tableau
 
-**Tags**: Exploratory Data Analysis, Dashboards 
+**Tags:** Exploratory Data Analysis, Dashboards
 
 [Dashboard](https://public.tableau.com/app/profile/isha.mahajan/viz/DashboardFinal_16632644722990/NECTARegionalIndustryImpact)
 
-Exploratory data analysis on Covid-19's impact on employment in Massachusetts, focusing on visualizations for stakeholder engagement. 
+Conducted exploratory data analysis on Covid-19's impact on employment in Massachusetts, with visualizations built for stakeholder engagement.
 
-- Analyzing Covid-19's impact on employment in Massachusetts, focusing on NECTA regions, industries, and counties.
-- Identifying most and least affected industries, and tracking their post-pandemic recovery trends.
-- Assessing DER support needs for industries to restore pre-pandemic employment levels and monitoring emerging post-pandemic employment trends.
+- Analyzed Covid-19's impact on employment across NECTA regions, industries, and counties in Massachusetts
+- Identified the most and least affected industries and tracked their post-pandemic recovery trends
+- Assessed DER support needs for industries to restore pre-pandemic employment levels and monitored emerging post-pandemic employment trends
 
 ### Topical Analysis of Human Rights Reports
 
-**Technologies Used**: R, Python
+**Technologies Used:** R, Python
 
-**Tags**: NLP, Topic Models, Text Mining
+**Tags:** NLP, Topic Models, Text Mining
 
 [Repository](https://github.com/Isha-Mahajan12/stm_human_rights)
 
-Identified the most prevelant topics in reporting Human Rights Violations over 30 years. Cleaned, Pre-processed and tokenized over 14,000 text documents. 
-- Published data and methodology in a Univeristy internal database
-- Applied Structured Topic Models to identify topical prevelance, and analyze the impact of metadata - time, publication name and region of publication on overall framing effects. 
+Identified the most prevalent topics in Human Rights Violation reporting over 30 years. Cleaned, preprocessed, and tokenized over 14,000 text documents.
 
+- Published data and methodology in a university internal database
+- Applied Structured Topic Models to identify topic prevalence and analyze the impact of metadata, including time, publication name, and region of publication, on overall framing effects
 
-## Publications
-- Carpenter, C. (2022, May 9). Human Security Lab launches report on Women, Peace and Security in Afghanistan — Human Security Lab. Human Security Lab. 
-- Carpenter, C. (2021, September 23). HSLAB publishes Briefing Note on Peacekeeping in Afghanistan — Human Security Lab. Human Security Lab. 
+## Research Contributions
+- Carpenter, C. (2022, May 9). Human Security Lab launches report on Women, Peace and Security in Afghanistan — Human Security Lab. Human Security Lab.
+- Carpenter, C. (2021, September 23). HSLAB publishes Briefing Note on Peacekeeping in Afghanistan — Human Security Lab. Human Security Lab.
 - CSIS Journalism, S. (2019, September 27). Refugees in all but name: Venezuelans struggle for status - CSIS Journalism Bootcamp. CSIS Journalism Bootcamp.
-
 
 ## Affiliations
 - US Squash: Member
@@ -81,7 +87,7 @@ Identified the most prevelant topics in reporting Human Rights Violations over 3
 - Atlanta Community Squash: Member and Volunteer at [A+ Squash](https://www.aplussquash.org/)
 
 ## Interests
-- Squash, Guitar, Writing, Travel and Legos
+- Squash, Padel, Guitar, Legos, Puzzles and Photogtaphy
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ishaakshitamahajan/)
